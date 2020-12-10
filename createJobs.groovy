@@ -8,7 +8,7 @@ pipelineJob('pipelineJob') {
 
 pipelineJob('theme-park-job') {
     definition {
-		spsScp{
+		cpsScm{
 			scm {
 				git{
 					remote{
