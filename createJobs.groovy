@@ -5,6 +5,7 @@ pipelineJob('pipelineJob') {
             sandbox()
         }
     }
+}
 
 pipelineJob('theme-park-job') {
     definition {
